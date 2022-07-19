@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = '1.app';
+  birthday : number = Date.now()
 }
